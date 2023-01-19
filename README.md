@@ -21,3 +21,6 @@ where each page struct has referntial info, and 'consumer' threads all work in p
 they dequeue a 'page' and compress it (again using RLE algorithm), store it in a new output struct with the relevant
 metadata. Once all threads are done, all  output structs are then accessed and used to write a single output stream to
 stdout. 
+
+Test files borrowed from:
+https://www.eecis.udel.edu/~amer/651/Assignments/Project2.sample.data.files/
