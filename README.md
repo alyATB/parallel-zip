@@ -24,4 +24,3 @@ stdout.
 
 Test files borrowed from:
 https://www.eecis.udel.edu/~amer/651/Assignments/Project2.sample.data.files/
-![image](https://user-images.githubusercontent.com/97933619/220248175-2cdb0ae1-8f23-405b-ad35-87c6632b3010.png)
